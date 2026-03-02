@@ -1,13 +1,13 @@
 # Web
-<img width="1263" height="675" alt="image" src="https://github.com/user-attachments/assets/8ad0f952-ee96-4850-906d-c94596833c31" />
-<img width="1275" height="744" alt="image" src="https://github.com/user-attachments/assets/73584fd9-595f-450f-b161-058f660fd746" />
-<img width="1264" height="740" alt="image" src="https://github.com/user-attachments/assets/8b4e53ca-9d79-414d-98d2-e939a6cf55aa" />
+<img width="1268" height="716" alt="image" src="https://github.com/user-attachments/assets/d2205ee1-2e40-47ca-a409-c582ca6b94b3" />
+<img width="1263" height="715" alt="image" src="https://github.com/user-attachments/assets/6c25e0cb-abe0-4d49-bf38-93bac868b62f" />
+<img width="1271" height="787" alt="image" src="https://github.com/user-attachments/assets/46585c33-842b-492a-9036-c01c31398690" />
 
 
 # Android
-<img width="392" height="661" alt="image" src="https://github.com/user-attachments/assets/3a90d7a0-15c7-4e16-99db-b0e8aa278d0f" />
-<img width="400" height="676" alt="image" src="https://github.com/user-attachments/assets/1f69af0b-0ae8-4aa5-bda0-6d3ddd5f5df2" />
-<img width="418" height="680" alt="image" src="https://github.com/user-attachments/assets/1399c6e0-7313-437d-8cca-bf86ce3ec5c2" />
+<img width="448" height="706" alt="image" src="https://github.com/user-attachments/assets/a123caa4-34bf-4e2a-8752-e2a287eb07ab" />
+<img width="415" height="712" alt="image" src="https://github.com/user-attachments/assets/005873e3-7ec1-4a06-8912-9cbed32e6bd7" />
+<img width="436" height="708" alt="image" src="https://github.com/user-attachments/assets/703d5005-9e28-4044-9f9b-2f02cb139ee2" />
 
 # myapp
 
